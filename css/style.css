@@ -1143,7 +1143,7 @@ a {
       padding: 15px 42px;
       border: none; }
       .cart-form-total-btn:hover {
-        border: 1px solid #f16d7f;
+        outline: 1px solid #f16d7f;
         background-color: transparent;
         color: #f16d7f;
         cursor: pointer; }
